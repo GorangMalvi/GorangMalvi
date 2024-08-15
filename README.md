@@ -3,7 +3,7 @@
 - 🧐 Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code.<br/>
 - 🌱 I’m currently learning **MERN stack**
 
-<h2 align="left">I'm looking for Internship opportunities</h2>
+<h2 align="left">I'm looking for Internship </h2>
 
 <h3 align="left">Languages and Tools:</h3>
 
