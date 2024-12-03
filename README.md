@@ -35,14 +35,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" dir="auto">
     
-   <a title="Gorangmalvi34@gmail.com" href="mailto:Gorangmalvi34@gmail.com">
-        <img align="center" src="https://camo.githubusercontent.com/45ad9613dcef587b425f4e40dfa54cfa6044db9f28740b0599a42f04bd01e31a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6362333132373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gorangmalvi34@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-    </a>
+   
 <a href="https://www.linkedin.com/in/gorang-m-59556610a/" rel="nofollow">
         <img align="center" src="https://camo.githubusercontent.com/de5d9a43e7c8806add9da08e1ef6c660f3d41c79d9a3f0197f31238fe76259cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3331376361623f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/gorang-m-59556610a/" data-canonical-src="https://img.shields.io/badge/LinkedIn-317cab?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
-<a title="Gorangmalvi34@gmail.com" href="mailto:Gorangmalvi34@gmail.com">
+<!-- <a title="Gorangmalvi34@gmail.com" href="mailto:Gorangmalvi34@gmail.com">
         <img align="center" src="https://camo.githubusercontent.com/7a9e21452a20344856eb016e848abcce168259e458a16fe240ecdb0b1c1b65e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6362333132373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gorangmalvi34@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    </a> -->
+    <a title="Gorangmalvi34@gmail.com" href="mailto:Gorangmalvi34@gmail.com">
+        <img align="center" src="https://camo.githubusercontent.com/7a9e21452a20344856eb016e848abcce168259e458a16fe240ecdb0b1c1b65e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6362333132373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="mailpragatihere@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
     </a>
 
 </p>
