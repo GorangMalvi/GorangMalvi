@@ -26,7 +26,7 @@
 
 
 <a href="https://66bef7422e7977c73be44e58--koovs-unit-2project.netlify.app/" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/b5b52ca314240a966665bddefd08ae8611ab2394206a6e77164093eefbc17d8b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b6f6f76732e636f6d20436c6f6e6526636f6c6f723d633433333639266c6162656c3d" alt="Koovs.com" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Koovs.com Clone&amp;color=c43369&amp;label=" style="max-width: 100%;">
+      <img src="https://camo.githubusercontent.com/541f898cbb1b36512a65d792ef90a761387507a02c67c08bcbef6097d68ab879/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b6f6f76732e636f6d20436c6f6e6526636f6c6f723d633433333639266c6162656c3d" alt="Koovs.com" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Koovs.com Clone&amp;color=c43369&amp;label=" style="max-width: 100%;">
     </a>
     <a href="https://yoox-clone-project.netlify.app" rel="nofollow">
         <img src="https://camo.githubusercontent.com/49c73a702884487463d74f6bea65db6864b6dd4fc7e9c1b30d7c927311db6508/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f6f782e636f6d20436c6f6e6526636f6c6f723d656434633334266c6162656c3d" alt="Yoox.com" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Yoox.com Clone&amp;color=ed4c34&amp;label=" style="max-width: 100%;">
