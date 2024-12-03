@@ -22,18 +22,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd0869793e9fc402263b6b428bfb89816e95ddf7ac8f5fcacc0dbf6e5992bf01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3134616135333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bd0869793e9fc402263b6b428bfb89816e95ddf7ac8f5fcacc0dbf6e5992bf01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3134616135333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongodb" data-canonical-src="https://img.shields.io/badge/MongoDB-14aa53?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
  
 </p>
-
-<h3 align="left" >I'm Learning:</h3>
-<p dir="auto">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/62ef1f8eeede60306b01b281bb0dbb81d6309bc104837db1c672597553f4ea11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3134616135333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/62ef1f8eeede60306b01b281bb0dbb81d6309bc104837db1c672597553f4ea11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3134616135333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongodb" data-canonical-src="https://img.shields.io/badge/MongoDB-14aa53?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eeadd97fca5bcf5cba87aebb81462f8c06587ac6f7fd1abd597ddc65352b3935/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468756e646572636c69656e742d3930346239393f7374796c653d666f722d7468652d6261646765266c6f676f3d7468756e646572 636c69656e74266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/eeadd97fca5bcf5cba87aebb81462f8c06587ac6f7fd1abd597ddc65352b3935/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468756e646572636c69656e742d3930346239393f7374796c653d666f722d7468652d6261646765266c6f676f3d7468756e646572636c69656e74266c6f676f436f6c6f723d7768697465" alt="ThunderClient" data-canonical-src="https://img.shields.io/badge/Thunderclient-904b99?style=for-the-badge&amp;logo=thunderclient&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4912b34d2a0c3d279f4abc1c39e75a2cdcbf874433796a72745dda64efb68df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4912b34d2a0c3d279f4abc1c39e75a2cdcbf874433796a72745dda64efb68df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="expressjs" data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;"></a>
-
-</p>
-
- 
-
-
 <h3 align="left">My top projects:</h3>
 
 
@@ -46,12 +34,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" dir="auto">
-    <a href="https://www.linkedin.com/in/gorang-m-59556610a/" rel="nofollow">
-        <img align="center" src="https://camo.githubusercontent.com/012173486c994765a56936b2ee94ca18c1a5307b47035c15353b7ee5f322a102/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3331376361623f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/gorang-m-59556610a/" data-canonical-src="https://img.shields.io/badge/LinkedIn-317cab?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-    </a>
+    
    <a title="Gorangmalvi34@gmail.com" href="mailto:Gorangmalvi34@gmail.com">
         <img align="center" src="https://camo.githubusercontent.com/45ad9613dcef587b425f4e40dfa54cfa6044db9f28740b0599a42f04bd01e31a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6362333132373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gorangmalvi34@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
     </a>
+<a href="https://www.linkedin.com/in/gorang-m-59556610a/" rel="nofollow">
+        <img align="center" src="https://camo.githubusercontent.com/de5d9a43e7c8806add9da08e1ef6c660f3d41c79d9a3f0197f31238fe76259cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3331376361623f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/gorang-m-59556610a/" data-canonical-src="https://img.shields.io/badge/LinkedIn-317cab?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+<a title="Gorangmalvi34@gmail.com" href="mailto:Gorangmalvi34@gmail.com">
+        <img align="center" src="https://camo.githubusercontent.com/7a9e21452a20344856eb016e848abcce168259e458a16fe240ecdb0b1c1b65e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6362333132373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gorangmalvi34@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+
 </p>
 
 <h3 align="left">My Github Stack</h3>
